@@ -1,5 +1,5 @@
 # Sandhya Paladugu 
-###### Cricket
+###### Indian Cricket team
 
 **When cricket's on, everything comes to a standstill.**
 
