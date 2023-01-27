@@ -1,7 +1,7 @@
 # Sandhya Paladugu
 ###### Cricket
 
-**When cricket's on, everything comes to a standstill**
+**When cricket's on, everything comes to a standstill.**
 
 No matter how important an exam or meeting one has on the next day, the Indian cricket fan takes the time out to keep tabs on his favourite team's match. 
 
