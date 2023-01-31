@@ -19,4 +19,4 @@ Other than SRH, following are my favourite teams
 - RCB
 - DC
 
-[Sandhya Paladugu] (AboutMe.md)
+[Sandhya Paladugu] (./AboutMe.md)
