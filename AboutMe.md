@@ -16,3 +16,8 @@ The following table presents the countries which I would recommend anyone to vis
 |    America    | Beaches, Tourism, Theme parks | 10 |  
 |    Dubai      | Architeture, Shopping         | 7  |
 |    Vietnam    | Tourism, Nature               | 7  |
+
+---
+
+>All you need is love. But a little chocolate now and then doesn’t hurt. - *Charles M. Schulz*
+>A bank is a place that will lend you money if you can prove that you don’t need it. - *Bob Hope*
