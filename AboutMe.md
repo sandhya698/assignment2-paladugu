@@ -22,3 +22,20 @@ The following table presents the countries which I would recommend anyone to vis
 >All you need is love. But a little chocolate now and then doesn’t hurt. - *Charles M. Schulz*
 
 >A bank is a place that will lend you money if you can prove that you don’t need it. - *Bob Hope*
+
+---
+
+# Code Snippet
+
+[Question](https://stackoverflow.com/questions/11727787/grab-svg-text-value-with-javascript)
+
+````
+window.writeText = function(form) {
+  var text;
+  form.catnumber2.value = "PING";
+  text = document.getElementByName('cat2Number').innerHtml;
+  return alert(text);
+};
+
+````
+
