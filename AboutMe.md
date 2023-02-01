@@ -39,4 +39,4 @@ window.writeText = function(form) {
 
 ````
 
-[link for the sample snippet reference] (https://css-tricks.com/snippets/svg/text-lock-up/)
+[link for the sample snippet reference](https://css-tricks.com/snippets/svg/text-lock-up/)
